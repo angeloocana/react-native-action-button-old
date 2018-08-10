@@ -1,4 +1,4 @@
-# react-native-action-button
+# react-native-action-button-old
 customizable multi-action-button component for react-native
 
 ![react-native-action-button demo](http://i.giphy.com/26BkMir9IcAhqe4EM.gif)
@@ -11,14 +11,14 @@ customizable multi-action-button component for react-native
 
 ### Installation
 ```bash
-npm i react-native-action-button --save
+npm i react-native-action-button-old --save
 ```
 
 ### Usage
 
 First, require it from your app's JavaScript files with:
 ```bash
-import ActionButton from 'react-native-action-button';
+import ActionButton from 'react-native-action-button-old';
 ```
 
 ##### ActionButton
@@ -34,7 +34,7 @@ _The following Basic example can be found in `example/Basic`._
 ```js
 import React, { Component } from 'react';
 import { StyleSheet, View } from 'react-native';
-import ActionButton from 'react-native-action-button';
+import ActionButton from 'react-native-action-button-old';
 import Icon from 'react-native-vector-icons/Ionicons';
 
 
